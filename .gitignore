@@ -1,5 +1,5 @@
 config.php
 .vs
-.bin/config.php
-.bin/config.php.distant
+bin/config.php
+bin/config.php.distant
 .htaccess
